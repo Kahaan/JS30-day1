@@ -1,8 +1,8 @@
 
-/* html {
+html {
   font-size: 10px;
-  background: url(http://i.imgur.com/b9r5sEL.jpg) bottom center;
-  background-size: cover;
+  /* background: url(http://i.imgur.com/b9r5sEL.jpg) bottom center;
+  background-size: cover; */
 }
 body,html {
   margin: 0;
@@ -25,7 +25,7 @@ body,html {
   font-size: 1.5rem;
   padding: 1rem .5rem;
   transition: all .07s ease;
-  width: 10rem;
+  width: 1000px;
   text-align: center;
   color: white;
   background: rgba(0,0,0,0.4);
@@ -48,4 +48,4 @@ kbd {
   text-transform: uppercase;
   letter-spacing: .1rem;
   color: #ffc600;
-} */
+}
